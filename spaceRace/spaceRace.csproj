@@ -104,5 +104,8 @@
   <ItemGroup>
     <None Include="Resources\games-death-sound-effect_Fb7RJE8X.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
